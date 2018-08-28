@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShortPrograms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShortPrograms_visu_jar</output-path>
+    <root id="archive" name="ShortPrograms.jar">
+      <element id="module-output" name="ShortPrograms" />
+      <element id="module-test-output" name="ShortPrograms" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations-java5/16.0.2/annotations-java5-16.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/junit-4.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
